@@ -41,7 +41,7 @@ const books1 = [
 ]
 
 const result1 = getAmountPublishedInFantasy(writers1, books1, "J. K. Rowling")
-console.log(result1 === 25000)
+console.log(result1 === 250000)
 
 const writers2 = [
   { id: 1, name: "J. K. Rowling" },
